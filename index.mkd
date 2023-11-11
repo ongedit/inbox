@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: https://ongedit.github.io/
+redirect_url: https://www.figma.com/file/Eh8ircd2aLDjE37eEWasj8/inbox?type=whiteboard&node-id=0-1&t=KDKOUPZ2Pewq0M75-0
 ---
